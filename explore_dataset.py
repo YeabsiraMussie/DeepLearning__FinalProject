@@ -1,4 +1,3 @@
-
 import medmnist
 from medmnist import INFO
 
@@ -19,6 +18,7 @@ test = BloodMNIST(split="test", download=True)
 print("\nTraining images:", len(train))
 print("Validation images:", len(val))
 print("Test images:", len(test))
+
 
 image, label = train[0]
 

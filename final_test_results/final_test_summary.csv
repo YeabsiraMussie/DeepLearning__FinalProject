@@ -1,0 +1,2 @@
+model,test_accuracy,test_macro_f1,test_weighted_f1,test_cross_entropy
+CNN_Adam_Dropout_seed42,0.9161064016369482,0.9055115212072684,0.9160851474726044,0.27640652656555176
